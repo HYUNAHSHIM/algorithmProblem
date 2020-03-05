@@ -1,4 +1,4 @@
-//BaekJoon 5397 Ű�ΰ�
+//BaekJoon 5397 키로거
 
 #include <iostream> 
 #include <list>

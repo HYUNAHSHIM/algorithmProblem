@@ -1,4 +1,4 @@
-//BaekJoon 2178 ╧л╥не╫╩Ж
+//BaekJoon 2178 К╞╦К║°М┐░Л┐┴
 
 #include <iostream>
 #include <stdio.h>

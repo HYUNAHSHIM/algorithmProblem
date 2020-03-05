@@ -1,4 +1,4 @@
-//BaekJoon 1919 �ֳʱ׷�
+//BaekJoon 1919 애너그램
 
 #include <iostream> 
 #include <string>

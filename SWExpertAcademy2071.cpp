@@ -1,4 +1,4 @@
-//SW Expert Academy 2071 Æò±Õ°ª ±¸ÇÏ±â
+//SW Expert Academy 2071 í‰ê· ê°’ êµ¬í•˜ê¸°
 
 #include <iostream>
 #include <math.h>

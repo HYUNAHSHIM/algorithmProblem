@@ -1,4 +1,4 @@
-//BaekJoon 1158 ¡∂ºº∆€Ω∫ πÆ¡¶
+//BaekJoon 1158 Ï°∞ÏÑ∏ÌçºÏä§ Î¨∏Ï†ú
 
 #include <iostream>
 #include <vector>
@@ -23,7 +23,7 @@ int main(void) {
 		cout << arr[idx] << ", ";
 		arr.erase(arr.begin() + idx);
 		idx += k - 1;
-		idx %= arr.size();//ø¯«¸, «—πŸƒ˚ ¥Ÿ µπæ“¿ª ∞ÊøÏ
+		idx %= arr.size();//ÔøΩÔøΩÔøΩÔøΩ, ÔøΩ—πÔøΩÔøΩÔøΩ ÔøΩÔøΩ ÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩ ÔøΩÔøΩÔøΩ
 	}
 	cout << arr[0] << ">" << endl;
 

@@ -1,4 +1,4 @@
-//BaekJoon 2504 °ıÈ£ÀÇ °ª
+//BaekJoon 2504 ê´„í˜¸ì˜ ê°’
 
 #include <iostream>
 #include <string>

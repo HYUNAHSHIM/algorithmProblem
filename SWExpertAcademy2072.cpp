@@ -1,5 +1,4 @@
-//SW Expert Academy 2072 È¦¼ö¸¸ ´õÇÏ±â
-
+//SW Expert Academy 2072 í™€ìˆ˜ë§Œ ë”í•˜ê¸°
 #include <iostream>
 
 using namespace std;

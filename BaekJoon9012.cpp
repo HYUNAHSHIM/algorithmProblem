@@ -1,4 +1,4 @@
-//BaekJoon 9012 °ýÈ£
+//BaekJoon 9012 ê´„í˜¸
 
 #include <iostream>
 #include <string.h>

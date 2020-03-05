@@ -1,4 +1,4 @@
-//BaekJoon 1874 ╫╨ец ╪Ж©╜
+//BaekJoon 1874 Л┼╓М┐² Л┬≤Л≈╢
 
 #include <iostream> 
 #include <string>

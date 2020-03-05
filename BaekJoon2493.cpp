@@ -1,4 +1,4 @@
-//BaekJoon 2493 ž
+//BaekJoon 2493 탑
 
 #include <iostream>
 #include <string>

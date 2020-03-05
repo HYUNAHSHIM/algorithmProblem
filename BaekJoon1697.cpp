@@ -1,4 +1,4 @@
-//BaekJoon 1697 ¼û¹Ù²ÀÁú
+//BaekJoon 1697 ìˆ¨ë°”ê¼­ì§ˆ
 
 #include <iostream>
 #include <stdio.h>
